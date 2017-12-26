@@ -1,0 +1,2 @@
+# BatchMgt
+stock management
